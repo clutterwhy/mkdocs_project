@@ -43,3 +43,4 @@ share: true
 			- git remote add origin https://github.com/clutterwhy/mkdocs_project.git
 			- token: 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
 			- git clone https://github.com/clutterwhy/mkdocs_project.git
+- ccc
